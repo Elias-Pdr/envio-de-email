@@ -1,5 +1,5 @@
 require('dotenv').config()
-
+// cuidado o tubarão vai te pegar
 const transportador = createTransport({
     host: 'smtp.ethereal.email',
     port: 587,
